@@ -86,7 +86,7 @@ class NavBar extends React.Component {
                             );
                         })}
                         <NavItem style={styles.navitem} className="mr-3 my-1">
-                            <a onClick={this.close} style={styles.link} href="https://github.com/ernie1994" target="_blank" rel="noopener noreferrer">My GitHub</a>
+                            <a onClick={this.close} style={styles.link} href="https://github.com/ernie1994/portfolio" target="_blank" rel="noopener noreferrer">My GitHub</a>
                         </NavItem>
                     </Nav>
                 </Collapse>
