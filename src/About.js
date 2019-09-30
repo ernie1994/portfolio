@@ -34,7 +34,7 @@ class About extends React.Component {
                         <h1 style={styles.header} className="text-center text-md-left">ABOUT ME</h1>
                         <p className="mt-3 text-center text-md-left">
                             I am a highly-motivated full-stack web developer. My
-                            journey in the tech industry began after graudating from
+                            journey in the tech industry began after graduating from
                             UCLA with a Bachelor's of Science in Neuroscience.
                             Through many hours of book-reading and YouTube video-watching,
                             I taught myself the basics of iOS programming.
